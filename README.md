@@ -1,5 +1,7 @@
 # Table of Contents
 
+## jQuery Plugins
+
 ### A javascript library for multi-touch gestures
 View - https://github.com/smillea/hammer.js
 
@@ -40,5 +42,52 @@ View - https://github.com/smillea/jquery-plugins
 View - https://github.com/smillea/FitText.js
 
 ### jQuery Mosaic sliding boxes
-#### Notes - Automatically generates sliding boxes & captions, allows slide & fade animations with custom directions, preloads images within boxes
+Automatically generates sliding boxes & captions, allows slide & fade animations with custom directions, preloads images within boxes
 View - https://github.com/smillea/mosaic
+
+### rlightbox is a jQuery UI mediabox that can display many types of content such as images, YouTube and Vimeo videos. It has many unique features like Panorama and Live Re-size. Like other jQuery UI widgets, it is ThemeRoller ready.
+View - https://github.com/smillea/rlightbox2
+
+### jQuery plugin for reordering and filtering items with a nice shuffling animation like the one in this video.
+View - https://github.com/smillea/quicksand
+
+### An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts.
+View - https://github.com/smillea/isotope
+
+###  jQuery tooltip plugin for control-obsessed designers.
+View - https://github.com/smillea/tooltipsy
+
+### jQuery plugin that enables card-flip animations with only css animation
+View - https://github.com/smillea/Flip-jQuery
+
+### Client side pagination with jQuery and CSS3
+View - https://github.com/smillea/jPages
+
+### EasyZoom is an elegant, highly optimised jQuery image zoom and panning plugin based on the original
+View -https://github.com/smillea/EasyZoom
+
+### Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.
+View - https://github.com/smillea/jquery-waypoints
+
+### jQuery.spritely is a jQuery plugin created by Artlogic for creating dynamic character and background animation in pure HTML and JavaScript. It's a simple, light-weight plugin with a few simple methods for creating animated sprites such as the birds you see on this page, and dynamic scrolling backgrounds.
+View - http://www.spritely.net/download/
+
+### A super simple JQuery plugin for modal windows.
+View - https://github.com/smillea/leanModal.js
+
+### Chosen is a library for making long, unwieldy select boxes more friendly.
+View - https://github.com/smillea/chosen
+
+### An easy-to-use jQuery plugin for making zooming web pages.
+View - https://github.com/smillea/zoomooz
+
+### A plugin for defining custom scroll paths.
+View - https://github.com/smillea/scrollpath
+
+### The page flip effect for HTML5 
+View - https://github.com/smillea/turn.js
+
+
+## CSS3 Techniques 
+### 3D text
+View - http://markdotto.com/playground/3d-text/
