@@ -1,4 +1,7 @@
 # Table of Contents
 
-## A javascript library for multi-touch gestures
+### A javascript library for multi-touch gestures
 View - https://github.com/smillea/hammer.js
+
+### A collection of CSS list scroll effects.
+View - https://github.com/smillea/stroll.js
