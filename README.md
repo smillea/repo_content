@@ -91,3 +91,31 @@ View - https://github.com/smillea/turn.js
 ## CSS3 Techniques 
 ### 3D text
 View - http://markdotto.com/playground/3d-text/
+
+### 3D Button
+View - http://blog.typekit.com/2011/02/10/type-study-an-all-css-button/
+Demo - http://css3exp.com/button/
+
+### Drop-shadows without images
+View - http://nicolasgallagher.com/css-drop-shadows-without-images/
+Demo - http://nicolasgallagher.com/css-drop-shadows-without-images/demo/
+
+### Patterns Gallery
+Demo - http://lea.verou.me/css3patterns/
+
+### A big ol' goody bag filled with CSS animations for WebKit, Firefox and beyond
+View - https://github.com/smillea/animate.css
+Demo - https://github.com/smillea/animate.css
+
+### The Cross-Browser CSS3 Rule Generator
+View - http://css3please.com/
+
+### Ultimate CSS Gradient Generator
+View - http://www.colorzilla.com/gradient-editor/
+
+### CSS3 Maker
+View - http://www.css3maker.com/
+
+### Grayscale images
+View - http://jsfiddle.net/KDtAX/8/
+ 
