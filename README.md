@@ -101,7 +101,7 @@ View - http://nicolasgallagher.com/css-drop-shadows-without-images/
 Demo - http://nicolasgallagher.com/css-drop-shadows-without-images/demo/
 
 ### Patterns Gallery
-Demo - http://lea.verou.me/css3patterns/
+Demo - http://lea.verou.me/css3exp/
 
 ### A big ol' goody bag filled with CSS animations for WebKit, Firefox and beyond
 View - https://github.com/smillea/animate.css
@@ -118,4 +118,15 @@ View - http://www.css3maker.com/
 
 ### Grayscale images
 View - http://jsfiddle.net/KDtAX/8/
- 
+
+### CSS3 Pie makes Internet Explorer 6-9 capable of rendering several of the most useful CSS3 decoration features.
+View - http://css3pie.com/
+
+### Border Radius creator
+View - http://border-radius.com/
+
+### Button generator
+View - http://css3buttongenerator.com/
+
+### Cross-Browser Image Grayscale with CSS
+View - http://www.karlhorky.com/2012/06/cross-browser-image-grayscale-with-css.html
