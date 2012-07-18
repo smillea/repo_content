@@ -8,56 +8,56 @@ View - https://github.com/smillea/hammer.js
 ### A collection of CSS list scroll effects.
 View - https://github.com/smillea/stroll.js
 
-### jQuery Notifications
+### Notifications
 View - https://github.com/smillea/noty
 
-### jQuery Transitions
+### Transitions
 View - http://ricostacruz.com/jquery.transit/
 
-### jQuery Page Slide
+### Page Slide
 View - http://srobbin.com/jquery-plugins/pageslide/
 
-### jQuery Timeline
+### Timeline
 View - https://github.com/smillea/Timeline
 
-### jQuery Layout dynamic grids
+### Layout dynamic grids
 View - https://github.com/smillea/Wookmark-jQuery
 
-### jQuery Time Glider
+### Time Glider
 View - https://github.com/smillea/jquery_widget
 
-### jQuery Slider
+### Slider
 View - https://github.com/smillea/bxslider
 
-### jQuery Sider Plugin with Infinite Style
+### Sider Plugin with Infinite Style
 View - https://github.com/smillea/Sequence
 
-### jQuery Camera slideshow is an open source project
+### Camera slideshow is an open source project
 View - https://github.com/smillea/Camera
 
 ### A resoultion indepentent indicator that works in any browser
 View - https://github.com/smillea/jquery-plugins
 
-### jQuery plugin for inflating web type
+### plugin for inflating web type
 View - https://github.com/smillea/FitText.js
 
-### jQuery Mosaic sliding boxes
+### Mosaic sliding boxes
 Automatically generates sliding boxes & captions, allows slide & fade animations with custom directions, preloads images within boxes
 View - https://github.com/smillea/mosaic
 
 ### rlightbox is a jQuery UI mediabox that can display many types of content such as images, YouTube and Vimeo videos. It has many unique features like Panorama and Live Re-size. Like other jQuery UI widgets, it is ThemeRoller ready.
 View - https://github.com/smillea/rlightbox2
 
-### jQuery plugin for reordering and filtering items with a nice shuffling animation like the one in this video.
+### plugin for reordering and filtering items with a nice shuffling animation like the one in this video.
 View - https://github.com/smillea/quicksand
 
 ### An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts.
 View - https://github.com/smillea/isotope
 
-###  jQuery tooltip plugin for control-obsessed designers.
+###  Tooltip plugin for control-obsessed designers.
 View - https://github.com/smillea/tooltipsy
 
-### jQuery plugin that enables card-flip animations with only css animation
+### plugin that enables card-flip animations with only css animation
 View - https://github.com/smillea/Flip-jQuery
 
 ### Client side pagination with jQuery and CSS3
@@ -177,7 +177,7 @@ View - http://www.zurb.com/playground/foundation-icons
 ### Designing for the Web
 View - http://designingfortheweb.co.uk/book/index.php
 
-### jQuery Fundamentals
+### Fundamentals
 View - http://jqfundamentals.com/book/
 
 ### Dive into HTML5
