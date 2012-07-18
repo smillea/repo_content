@@ -1,4 +1,7 @@
 # Table of Contents
+# Created on  : 18-Jul-2012
+# Author      : Stephen Millea
+# Company     : Betapond.com
 
 ## jQuery Plugins
 
