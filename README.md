@@ -87,6 +87,15 @@ View - https://github.com/smillea/scrollpath
 ### The page flip effect for HTML5 
 View - https://github.com/smillea/turn.js
 
+## Mobile Design
+### Mobile design patterns, a list of mobile app UI's
+View - http://mobile-patterns.com/
+View - http://pttrns.com/
+
+### Mobile inspired UI's
+View - http://inspired-ui.com/
+View - http://www.lovelyui.com/
+View - http://www.patternsofdesign.co.uk/
 
 ## CSS3 Techniques 
 ### 3D text
@@ -130,3 +139,52 @@ View - http://css3buttongenerator.com/
 
 ### Cross-Browser Image Grayscale with CSS
 View - http://www.karlhorky.com/2012/06/cross-browser-image-grayscale-with-css.html
+
+## HTML5
+### Easy Template
+View - http://www.impressivewebs.com/easy-html5-template/
+
+### HTML5 Reset
+View - https://github.com/smillea/HTML5-Reset
+
+## Fonts
+### Font face generator
+View - http://www.fontsquirrel.com/fontface/generator
+View - http://onlinefontconverter.com/
+### High-Quality Fonts
+#### Links
+- http://www.smashingmagazine.com/2010/12/17/25-new-free-high-quality-fonts-typography/
+- http://webdesignledger.com/freebies/8-free-high-quality-fonts-for-your-designs
+- http://webdesignledger.com/freebies/8-fresh-and-free-high-quality-fonts
+- http://webdesignledger.com/freebies/10-new-free-fonts-for-your-delight
+- http://webdesignledger.com/freebies/8-fresh-free-fonts-for-your-designs
+- http://www.noupe.com/fonts/the-ultimate-collection-of-professional-free-fonts.html
+- http://blog.spoongraphics.co.uk/articles/20-high-quality-free-fonts-every-design-should-own
+- http://www.dzinepress.com/2011/10/500-ultimate-fonts-collections-steadfast-for-web-graphic-designs/
+- http://webdesignledger.com/freebies/10-new-free-fonts-for-your-delight-2
+- http://www.smashingmagazine.com/2012/01/09/high-quality-free-fonts-2012/
+
+### 30 Examples of Effective Font Replacement in Web Design
+View - http://webdesignledger.com/inspiration/30-examples-of-effective-font-replacement-in-web-design
+
+### 10 Fresh High-Quality Free Fonts
+View - http://webdesignledger.com/freebies/10-fresh-high-quality-free-fonts
+
+### Custom icon sets that are stored in a handy web font
+View - http://www.zurb.com/playground/foundation-icons
+
+## Reading
+### Designing for the Web
+View - http://designingfortheweb.co.uk/book/index.php
+
+### jQuery Fundamentals
+View - http://jqfundamentals.com/book/
+
+### Dive into HTML5
+View - http://diveintohtml5.org/
+
+### 10 Principles Of Effective Web Design
+View - http://uxdesign.smashingmagazine.com/2008/01/31/10-principles-of-effective-web-design/
+
+### 10 Useful Usability Findings and Guidelines
+View - http://uxdesign.smashingmagazine.com/2009/09/24/10-useful-usability-findings-and-guidelines/
