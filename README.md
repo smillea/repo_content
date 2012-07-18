@@ -92,13 +92,13 @@ View - https://github.com/smillea/turn.js
 
 ## Mobile Design
 ### Mobile design patterns, a list of mobile app UI's
-View - http://mobile-patterns.com/
-View - http://pttrns.com/
+- http://mobile-patterns.com/
+- http://pttrns.com/
 
 ### Mobile inspired UI's
-View - http://inspired-ui.com/
-View - http://www.lovelyui.com/
-View - http://www.patternsofdesign.co.uk/
+- http://inspired-ui.com/
+- http://www.lovelyui.com/
+- http://www.patternsofdesign.co.uk/
 
 ## CSS3 Techniques 
 ### 3D text
@@ -152,8 +152,8 @@ View - https://github.com/smillea/HTML5-Reset
 
 ## Fonts
 ### Font face generator
-View - http://www.fontsquirrel.com/fontface/generator
-View - http://onlinefontconverter.com/
+- http://www.fontsquirrel.com/fontface/generator
+- http://onlinefontconverter.com/
 ### High-Quality Fonts
 #### Links
 - http://www.smashingmagazine.com/2010/12/17/25-new-free-high-quality-fonts-typography/
