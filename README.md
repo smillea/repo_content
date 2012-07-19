@@ -5,6 +5,9 @@ Company     : Betapond.com
 
 ## jQuery Plugins
 
+### Click to unfold content
+View - https://github.com/smillea/jquery-unfold
+
 ### A javascript library for multi-touch gestures
 View - https://github.com/smillea/hammer.js
 
