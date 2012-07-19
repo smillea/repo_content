@@ -103,6 +103,15 @@ View - https://github.com/smillea/turn.js
 - http://www.lovelyui.com/
 - http://www.patternsofdesign.co.uk/
 
+### Pull down navigation
+View - https://github.com/smillea/Pull-Down-for-Navigation
+
+### Overlay a grid on your site
+View - http://www.developerdrive.com/2011/09/what-the-heads-up-grid-can-do-for-you/
+
+### Image replacement for retina display
+View - http://www.noupe.com/design/the-mobile-web-css-image-replacement-for-retina-display-devices.html
+
 ## CSS3 Techniques 
 ### 3D text
 View - http://markdotto.com/playground/3d-text/
