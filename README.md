@@ -5,6 +5,9 @@
 
 ## jQuery Plugins
 
+### Detect IE Alert
+View - https://github.com/smillea/ie_alert
+
 ### Click to unfold content
 View - https://github.com/smillea/jquery-unfold
 
