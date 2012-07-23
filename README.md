@@ -5,6 +5,9 @@
 
 ## jQuery Plugins
 
+### Javascript spinner
+- VIew https://github.com/smillea/spin.js
+
 ### Detect IE Alert
 View - https://github.com/smillea/ie_alert
 
