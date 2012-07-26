@@ -119,6 +119,9 @@ View - http://www.developerdrive.com/2011/09/what-the-heads-up-grid-can-do-for-y
 View - http://www.noupe.com/design/the-mobile-web-css-image-replacement-for-retina-display-devices.html
 
 ## CSS3 Techniques 
+### Media Queries
+View - http://www.developerdrive.com/2012/07/w3c-media-queries-proposal-boosts-responsive-web-design/
+
 ### 3D text
 View - http://markdotto.com/playground/3d-text/
 
