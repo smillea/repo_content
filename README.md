@@ -5,8 +5,8 @@
 
 ## jQuery Plugins
 
-## Forkit.js
-- An experimental animated ribbon which reveals a curtain of additional content.
+## Forkit.js An experimental animated ribbon which reveals a curtain of additional content.
+- View https://github.com/smillea/forkit.js
 
 ### Javascript spinner
 - VIew https://github.com/smillea/spin.js
