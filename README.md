@@ -5,8 +5,12 @@
 
 ## jQuery Plugins
 
+### Accordion Form
+- View https://github.com/smillea/FormAccordion
+
 ### SideTap, implementation of the side navigation pattern popularized by apps like Sparrow and Facebook.
 - View https://github.com/smillea/Sidetap
+
 ### Forkit.js An experimental animated ribbon which reveals a curtain of additional content.
 - View https://github.com/smillea/forkit.js
 
