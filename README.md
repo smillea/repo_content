@@ -4,6 +4,8 @@
 - Company     : http://www.Betapond.com
 
 ## jQuery Plugins
+### Skrollr, Stand-alone parallax scrolling library with zero dependencies. No jQuery. Just plain JavaScript
+- https://github.com/smillea/skrollr
 
 ### Accordion Form
 - View https://github.com/smillea/FormAccordion
