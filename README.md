@@ -4,6 +4,9 @@
 - Company     : http://www.Betapond.com
 
 ## jQuery Plugins
+### A fluid asymmetrical animated grid plugin for jQuery
+- View https://github.com/smillea/jquery-flex
+
 ### Skrollr, Stand-alone parallax scrolling library with zero dependencies. No jQuery. Just plain JavaScript
 - https://github.com/smillea/skrollr
 
